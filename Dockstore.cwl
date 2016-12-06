@@ -4,3 +4,4 @@ label: "dockstore whalesay 2"
 
 dct:creator:
   foaf:name: "Dockstore Test User"
+  foaf:mbox: "testemail@domain.com"
